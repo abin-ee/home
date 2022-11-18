@@ -1,0 +1,14 @@
+.curosal-section{
+    .curosal{
+        margin: 0px 15px 30px 15px;
+    }
+}
+
+.card-section{
+    margin: 0px 15px;
+    &__title{
+        margin-top: 4px;
+        color: rgb(255, 255, 255);
+        font-size: 13px;
+    }
+}

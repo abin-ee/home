@@ -1,0 +1,19 @@
+.header{
+    margin: .1rem 0rem .5rem 0rem;
+    color: beige;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 1rem 1rem 1rem 0rem;
+    color: rgba(190, 159, 17, 0.815) !important;;
+    padding-right: 16px;
+    &__heading{
+        font-size: 20px;
+    }
+    &__sub-heading{
+        font-size: 10px;
+    }
+    p{
+        margin-bottom: .1rem;
+    }
+}

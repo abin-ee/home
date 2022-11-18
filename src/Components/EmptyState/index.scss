@@ -1,0 +1,16 @@
+.empty-state{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    height: 400px;
+    &__imgblock{
+        min-width: 100px;
+        height: 200px;
+    }
+}

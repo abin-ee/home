@@ -1,0 +1,5 @@
+export const ON_SEARCH_MOVIES = "ON_SEARCH_MOVIES"
+export const CLEAR_SEARCH = "CLEAR_SEARCH"
+
+export const ON_SELECT_GENERE = "ON_SELECT_GENERE"
+export const CLEAR_GENERE = "CLEAR_GENERE"
